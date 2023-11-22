@@ -1,0 +1,24 @@
+{
+  "entry": {
+    "bg": "#333",
+    "fg": "white",
+    "font": ["Arial", 14]
+  },
+  "label": {
+    "bg": "#222",
+    "fg": "white",
+    "font": ["Arial", 14]
+  },
+  "button": {
+    "bg": "#4CAF50",
+    "fg": "white",
+    "font": ["Arial", 14]
+  },
+  "textview": {
+    "bg": "#333",
+    "fg": "white",
+    "font": ["Arial", 14],
+    "height": 10,
+    "width": 50
+  }
+}

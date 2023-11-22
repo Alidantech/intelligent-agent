@@ -1,0 +1,4 @@
+.venv
+agent/__pycache__/checker.cpython-312.pyc
+agent/__pycache__/data.cpython-312.pyc
+res/__pycache__/ui.cpython-312.pyc
