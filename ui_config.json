@@ -5,9 +5,9 @@
     "font": ["Arial", 14]
   },
   "label": {
-    "bg": "#222",
-    "fg": "white",
-    "font": ["Arial", 14]
+    "bg": "gray",
+    "font": "Helvetica 12 bold",
+    "fg": "white"
   },
   "button": {
     "bg": "#4CAF50",
